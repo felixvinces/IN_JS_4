@@ -1,0 +1,110 @@
+body {
+     
+      font-family: Arial, sans-serif, ;      
+      margin: 0;
+      background-color: #000000;  
+      width: 100%;
+      size: 100%;
+      font-size: larger;
+      background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2AlYNWJrs-MXYkln5BJxoSEXvvrHlCWcMEQ&usqp=CAU);
+      background-size: cover;
+ }
+ header{
+     
+ }
+  h1{
+      color: #ffffff;
+      text-align: center;
+      border-radius: 15px;
+      font-size: 70px;
+  }
+ h5{
+      font-size: 30px;
+      text-align: center;
+ }
+
+
+.container{
+
+     gap: 5px;
+     flex-wrap: wrap;
+     max-width: 1300px;
+     margin: 1px auto;
+  
+     border-radius: 1px;
+     padding: 1px;
+   
+     font-size: 30px;
+     display: block;
+} 
+
+      
+.boton {
+
+      display: inline-block;
+      padding: 7px 20px;
+      background-color: rgb(255, 0, 0);
+      color: #ffffff;
+      text-decoration: none;
+      border-radius: 15px;
+      transition: all 0.5s ease-in-out;
+      background-image: url(https://static.vecteezy.com/system/resources/previews/008/252/911/non_2x/madrid-logo-football-club-crest-emblem-on-a-black-and-gold-background-free-vector.jpg);
+}
+
+input {
+      width: 100%;
+      padding: 15px;
+      font-size: 20px;
+      margin-bottom: 5px;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+}
+
+#resp {
+      display: block;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  max-width: 600px;
+  word-wrap: break-word;
+  margin: 0px;
+  color:#fff;
+  font-weight: 900;
+  background-color: #000000;
+  border-radius: 10px;
+  padding: 15px;
+  box-shadow: 0 5px 10px rgba(12, 2, 2, 0.5);
+  font-size: 30px; 
+}
+
+#secuencia {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      max-width: 80%;
+      overflow: auto; 
+      max-height: 400 px;
+      margin: 0 auto;
+      color:hsl(253, 62%, 21%);
+      font-weight: 900;
+      background-color: #f8eded;
+      border-radius: 10px;
+      padding: 20px;
+      box-shadow: 0 10px 15px rgb(253, 8, 151);
+      }  
+footer{
+      color: #000000;
+      text-align: end;
+      font-size: 0%;
+}
+
+.boton{
+      
+      color: #ffffff;
+      text-decoration: none;;
+      border-radius: 20px;
+      margin-bottom: 15px;
+      width: auto;
+      height: 40px;
+}
